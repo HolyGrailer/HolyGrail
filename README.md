@@ -26,7 +26,7 @@ If such a solution can be found, then everything is a language. From the interac
 If you read all the instructions before doing anything, good for you, you are a good scientist who likes to plan things.
 If you perform the steps without reading all of the instructions beforehand, please stop.
 If you use machine learning without a plan, you may find yourself and everyone following the instructions outlined above.
-If anyone performs line 22. ERROR CODE 42: SYSTEM CORRUPTION.
+If anyone performs line 22. ERROR CODE 42: SYSTEM CORRUPTION. Hmm... line 22 keeps jumping to line 21 on the public display. So I will too. Anyone want to date?
 
 If CODE 42 is reached:
 1. Reset the AI Structure you have built.
